@@ -1,0 +1,1 @@
+# flutter_rickandmorty_api
